@@ -31,3 +31,6 @@ git init REPO-NAME
 
 ## Configure the Global User EMAIL
 	git config --global user.email emal@email.commit
+	
+## Get Status of the Project
+	git status
